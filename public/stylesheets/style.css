@@ -1,0 +1,64 @@
+.navbar-brand {
+    float: left;
+    width: 525px;
+    padding: 15px;
+    font-size: 18px;
+    line-height: 20px;
+    position: relative;
+}
+
+.navbar {
+    height: 50px;
+    padding: 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+#contains-resume {
+      position: relative;
+      margin-left: 8%;
+
+}
+  
+#contains-buttons {
+      position: relative;
+}
+
+.list {
+    position: relative;
+    width: 500px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.pic {
+    position: relative;
+    width: 500px;
+    height: 400px;
+    margin-left: 35%;
+}
+
+.pic img {
+    max-height:100%;
+    max-width:100%;
+}
+
+.name {
+    position: relative;
+    font-size: 48px;
+    font-family: arvo;
+    width: 500px;
+    height: 50px;
+    margin-left: 38%;
+}
+
+.contact {
+    position: relative;
+    width: 500px;
+    height: 150px;
+    margin-left: 37%;
+}
+
+.submit {
+    position: relative;
+}
