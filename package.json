@@ -9,8 +9,6 @@
   "author": "Victoria Fisher",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.13.3",
-    "bootstrap": "^4.3.1",
     "express": "^4.17.1",
     "express-handlebars": "^2.0.1",
     "handlebars": "^4.1.2"
